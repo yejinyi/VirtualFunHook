@@ -1,0 +1,20 @@
+﻿  VirtualFunHook.cpp
+D:\study\杂项代码\VirtualFunHook\VirtualFunHook.cpp(93,12): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“target *”
+  (编译源文件“/VirtualFunHook.cpp”)
+  
+D:\study\杂项代码\VirtualFunHook\VirtualFunHook.cpp(93,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "target *" 的参数 1 冲突
+  (编译源文件“/VirtualFunHook.cpp”)
+  
+D:\study\杂项代码\VirtualFunHook\VirtualFunHook.cpp(97,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONG_PTR *”
+  (编译源文件“/VirtualFunHook.cpp”)
+  
+D:\study\杂项代码\VirtualFunHook\VirtualFunHook.cpp(97,12): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "ULONG_PTR *" 的参数 1 冲突
+  (编译源文件“/VirtualFunHook.cpp”)
+  
+D:\study\杂项代码\VirtualFunHook\VirtualFunHook.cpp(113,12): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“ULONG_PTR”
+  (编译源文件“/VirtualFunHook.cpp”)
+  
+D:\study\杂项代码\VirtualFunHook\VirtualFunHook.cpp(126,12): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“ULONG_PTR”
+  (编译源文件“/VirtualFunHook.cpp”)
+  
+  VirtualFunHook.vcxproj -> D:\study\杂项代码\VirtualFunHook\x64\Debug\VirtualFunHook.exe
